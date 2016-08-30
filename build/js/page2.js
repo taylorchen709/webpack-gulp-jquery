@@ -1,0 +1,1 @@
+webpackJsonp([1],[function(n,t,a){"use strict";var c=a(1);c(function(){alert("page2")})}]);
